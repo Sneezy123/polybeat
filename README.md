@@ -1,6 +1,6 @@
 # Polybeat
 
-## Installationdddddddddddd
+## Installation
 ```shell
 pip install polybeat
 ```
